@@ -1,1 +1,1 @@
-# pipeline-lab-master
+# simple-java-maven-app
